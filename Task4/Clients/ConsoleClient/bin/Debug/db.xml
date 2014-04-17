@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfCompany xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Company>
+    <Id>1</Id>
+    <Name>ООО РСВ</Name>
+    <Address>sadasd</Address>
+    <Phone>123123</Phone>
+  </Company>
+  <Company>
+    <Id>2</Id>
+    <Name>asd asd</Name>
+    <Address>cvb</Address>
+    <Phone>345</Phone>
+  </Company>
+  <Company>
+    <Id>3</Id>
+    <Name> cvbcvb</Name>
+    <Address>cvbcvb</Address>
+    <Phone>cvbcvb</Phone>
+  </Company>
+</ArrayOfCompany>

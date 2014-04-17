@@ -1,0 +1,3 @@
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\obj\Debug\Persons.exe
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\obj\Debug\Persons.pdb

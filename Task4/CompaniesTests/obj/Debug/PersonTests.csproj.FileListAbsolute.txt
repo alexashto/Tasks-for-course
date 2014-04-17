@@ -1,0 +1,9 @@
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\bin\Debug\PersonTests.dll
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\bin\Debug\PersonTests.pdb
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\bin\Debug\nunit.framework.dll
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\bin\Debug\Persons.exe
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\bin\Debug\Persons.pdb
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\bin\Debug\nunit.framework.xml
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\obj\Debug\PersonTests.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\obj\Debug\PersonTests.dll
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\PersonTests\obj\Debug\PersonTests.pdb

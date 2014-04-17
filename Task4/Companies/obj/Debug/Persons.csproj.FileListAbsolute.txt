@@ -1,0 +1,7 @@
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\bin\Debug\Persons.exe.config
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\bin\Debug\DataStorage\AppDB.sdf
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\bin\Debug\Persons.exe
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\bin\Debug\Persons.pdb
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\obj\Debug\Persons.exe
+C:\Users\Цифровой\Documents\GitHub\Persons\Persons\Persons\obj\Debug\Persons.pdb
