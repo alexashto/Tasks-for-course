@@ -5,11 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Companies", "Companies\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompaniesTests", "CompaniesTests\CompaniesTests.csproj", "{D5C3B9C1-E958-4BC9-AB29-0230E7A498A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "Clients\ConsoleClient\ConsoleClient.csproj", "{E3DF0F61-61A5-4737-AEB1-A4C5E914F8AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{E3DF0F61-61A5-4737-AEB1-A4C5E914F8AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{A1DA9484-17E4-4188-A4ED-8216BF753DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClientMVX", "WebClientMVX\WebClientMVX.csproj", "{DAB6F5AF-652A-4A71-83B9-F231C67136F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClientMVC", "WebClientMVC\WebClientMVC.csproj", "{DAB6F5AF-652A-4A71-83B9-F231C67136F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,5 +39,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E3DF0F61-61A5-4737-AEB1-A4C5E914F8AC} = {A1DA9484-17E4-4188-A4ED-8216BF753DE9}
+		{DAB6F5AF-652A-4A71-83B9-F231C67136F5} = {A1DA9484-17E4-4188-A4ED-8216BF753DE9}
 	EndGlobalSection
 EndGlobal

@@ -12,7 +12,7 @@ namespace PersonTests
     public class CompaniesUnitTests
     {
 
-        [Test]
+   /*     [Test]
         public void InsertAndGetByNameTest()
         {
 
@@ -31,7 +31,7 @@ namespace PersonTests
             Assert.AreEqual(8, personAccessor.GetAll().Count());
             
         }
-
+        */
 
 
     }

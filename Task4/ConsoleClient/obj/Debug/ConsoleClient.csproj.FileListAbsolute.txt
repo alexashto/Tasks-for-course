@@ -21,3 +21,16 @@ C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Clients\ConsoleClie
 C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Clients\ConsoleClient\obj\Debug\ConsoleClient.exe
 C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Clients\ConsoleClient\obj\Debug\ConsoleClient.pdb
 C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Clients\ConsoleClient\bin\Debug\Companies.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\DataStorage\AppDB.sdf
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\NLog.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\App.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\Companies.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\NLog.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\Companies.pdb
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\bin\Debug\NLog.xml
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache

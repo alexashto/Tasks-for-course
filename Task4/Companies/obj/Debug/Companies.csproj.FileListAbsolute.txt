@@ -12,3 +12,14 @@ C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Companies\bin\Debug
 C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Companies\bin\Debug\Companies.dll
 C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Companies\obj\Debug\Companies.csprojResolveAssemblyReference.cache
 C:\Users\Цифровой\Documents\GitHub\Persons\Companies\Companies\obj\Debug\Companies.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\DataStorage\AppDB.sdf
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\NLog.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\App.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\Companies.dll.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\Companies.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\Companies.pdb
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\NLog.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\bin\Debug\NLog.xml
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\obj\Debug\Companies.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\obj\Debug\Companies.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\Companies\obj\Debug\Companies.pdb

@@ -1,0 +1,14 @@
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\obj\Debug\CompaniesTests.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\obj\Debug\PersonTests.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\DataStorage\AppDB.sdf
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\NLog.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\App.config
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\PersonTests.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\PersonTests.pdb
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\Companies.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\nunit.framework.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\NLog.dll
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\Companies.pdb
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\nunit.framework.xml
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\bin\Debug\NLog.xml
+C:\Users\Цифровой\Documents\GitHub\Tasks-for-course\Task4\CompaniesTests\obj\Debug\PersonTests.pdb
